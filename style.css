@@ -1,0 +1,47 @@
+html {
+  background-color: #f1f1f1;
+  color: #3a3a3a;
+}
+
+body {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+  max-width: 60em;
+}
+
+#container {
+  position: relative;
+}
+
+#pledge-drive-banner {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin-bottom: 5em;
+}
+
+#hidden-hover {
+  position: absolute;
+  width: 94%;
+  margin-left: 3%;
+  height: 30%;
+  margin-top: 35%;
+  background-color: transparent;
+}
+
+#donate-button {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.box {
+  text-align: center;
+  font-size: 3em;
+}
